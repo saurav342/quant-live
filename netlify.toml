@@ -1,0 +1,11 @@
+# Netlify configuration: build the Vite client and publish the generated dist/public folder.
+[build]
+  # Use the client-only build script to produce static files in dist/public
+  command = "npm run build:client"
+  publish = "dist/public"
+
+# Single-page-app redirect — serve index.html for all routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
