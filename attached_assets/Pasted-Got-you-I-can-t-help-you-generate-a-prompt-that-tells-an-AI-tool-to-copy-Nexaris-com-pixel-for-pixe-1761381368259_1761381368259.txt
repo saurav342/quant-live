@@ -1,0 +1,213 @@
+Got you. I can’t help you generate a prompt that tells an AI tool to copy Nexaris.com pixel-for-pixel with the same branding, text, and assets — that would basically recreate their proprietary content and trademarks, which I can’t do.
+
+But I can give you a super-detailed “clone-style” brief you can paste into EmergentHQ that will produce a landing page with the same structure, flow, layout patterns, section order, animations, tone (crypto/fintech infra), and general dark neon aesthetic — just with your own brand, your own wording, and your own visuals. This is usually enough to get a 1:1-looking site that feels the same.
+
+Below is that prompt 👇
+You can replace MyBrand with your actual brand name.
+
+⸻
+
+PROMPT FOR EMERGENTHQ
+
+Build a high-end landing page for MyBrand, a next-gen crypto payment infrastructure company. The site should visually and structurally mirror modern crypto/fintech landing pages: dark futuristic background, neon gradient accents, glassy cards, subtle motion, and strong “join waitlist” CTAs. The tone is: we are disrupting traditional payment rails with crypto.
+
+1. Global style / vibe
+	•	Theme: Dark mode / midnight background (#000000 to deep navy), with soft radial gradient glows (purple→blue→magenta), giving a sci-fi / finance / DeFi feeling.
+	•	Aesthetic keywords: futuristic, premium, trust, high-performance infrastructure, “next-gen payments.”
+	•	Visual elements:
+	•	Blurred neon orb / gradient blobs behind key sections.
+	•	Subtle glassmorphism cards (translucent panels with a soft border and backdrop blur).
+	•	Thin 1px hairline borders using semi-transparent white (rgba(255,255,255,0.1)) to get that “wallet / dashboard UI” feel.
+	•	Typography:
+	•	Bold, geometric sans-serif for headlines (think space/fintech startup).
+	•	Slightly lighter, high-contrast body text with good readability on dark.
+	•	Tight leading for hero headline.
+	•	Motion:
+	•	Smooth 200–300ms ease timing.
+	•	Hero headline + CTA fade/slide up on load.
+	•	Cards in “Product / Solution” grid should float up ~4px on hover with a soft shadow.
+	•	Layout rules:
+	•	Max content width ~1280px.
+	•	Generous vertical spacing between sections (min 80–120px).
+	•	Responsive first: looks amazing on desktop and also clean + stacked on mobile.
+
+2. Navigation (sticky header)
+
+Create a sticky top navbar with:
+	•	Left: brand logotype MyBrand (simple clean wordmark).
+	•	Center/right: links like Product, Why Us, Docs, Contact.
+	•	Far right: a prominent rounded pill CTA button: Join Waitlist.
+	•	Navbar background: translucent dark blur (frosted) with 1px border on bottom.
+	•	On scroll: navbar slightly compresses in height and darkens.
+
+3. HERO SECTION (full viewport height)
+
+This is the “hook” section. It should match the structure and energy of a Web3 payments company promising to replace legacy card networks. The Nexaris site hero positions them as “Next-gen Crypto Payments” and “The Future of Payments is Here,” and frames them as empowering merchants with new rails.  ￼
+
+Build something equivalent, but for MyBrand:
+	•	Tagline (eyebrow text, small, all-caps, gradient text):
+THE FUTURE OF PAYMENTS
+	•	H1 (very large, bold, 2–3 lines on desktop):
+Next-gen Crypto Payments for Every Merchant
+	•	Subheadline (1–2 sentences, mid-gray/white):
+We build instant, low-fee crypto payment rails that remove banking friction and give merchants more control. Ditch legacy card fees and settlement delays. Move money at network speed.
+(This mirrors the idea from Nexaris that they “replace complex card fees and monopolistic practices with secure, blockchain-based solutions,” and “equip merchants to stay ahead in finance.”  ￼)
+	•	Primary CTA button (solid, glowing, rounded full pill): Join Waitlist
+	•	Secondary CTA (text link style): See How It Works →
+	•	Right side / below on mobile:
+	•	Animated mock dashboard card: show a fake merchant dashboard with:
+	•	“Today’s Volume”
+	•	“Avg Settlement Time”
+	•	“Fees Saved vs Cards”
+	•	This card should have glassmorphism styling with neon edge glow.
+	•	Background of hero:
+	•	Large blurred gradient orb behind headline (purple/blue).
+	•	Very subtle animated particle field or flowing lines suggesting “payment rails / network throughput.”
+	•	Keep it tasteful, not cheesy.
+
+4. “WHY WE EXIST / MISSION” STRIPE
+
+Create a dark section directly under the hero that explains the problem with legacy systems and how we’re different. On Nexaris, this section explains that they “address… rising challenges… replacing complex card fees… with blockchain-based solutions,” and talks about speed, scalability, and integration for merchants.  ￼
+
+Structure:
+	•	2-column layout.
+	•	Left column:
+	•	Section headline: Evolving Beyond Traditional Systems
+	•	Paragraph copy (paraphrased, not copied):
+Legacy payment rails are slow, expensive, and controlled by centralized intermediaries. We’re building decentralized rails designed for speed, global scale, and direct merchant control — without gatekeeping from banks.
+	•	Mini bullets / micro-headlines:
+	•	Faster settlement
+	•	Lower fees
+	•	No gatekeepers
+	•	Right column:
+	•	Card titled Disrupting the Status Quo
+	•	Supporting text:
+Merchants get better margins, predictable cash flow, and full visibility into every transaction — instead of trusting black-box processors.
+	•	Subtle iconography (shields, lightning bolt, etc.).
+
+Visually:
+	•	Keep same background as hero but with a faint dividing border at top.
+	•	On mobile, stack columns vertically.
+
+5. PRODUCT / SOLUTION GRID
+
+On the Nexaris homepage, they present 3 product pillars like “Online,” “Subscriptions,” “Invoicing,” each with short bullet benefits (no-KYC payments, fast setup, automated receipts, etc.).  ￼
+
+Recreate that structure for MyBrand using neutral wording:
+
+Section heading:
+Our Solution
+Subheading:
+Crypto-native payments that any merchant can start using in minutes — no bank approvals, no gatekeeping.
+(This matches the idea that “Nexaris provides no-code solutions… boosting profits and removing banking hurdles… letting you harness crypto without traditional banking infrastructure.”  ￼)
+
+Then create a 3-card responsive grid:
+
+Card 1: MyBrand Online
+	•	Bullet points:
+	•	No mandatory KYC for small-ticket payments.
+	•	Go live in under 10 minutes.
+	•	One-click wallet authorization reuse for returning customers.
+(This mirrors the “No KYC payments… Quick setup… Convenience: re-use wallet authorizations…” section on Nexaris.  ￼)
+
+Card 2: MyBrand Subscriptions
+	•	Bullet points:
+	•	Flexible recurring billing in crypto or stablecoins.
+	•	Custom billing intervals, free trials, and upgrades without re-verifying payment method.
+(Inspired by Nexaris’ “Custom subscription plans: flexible pricing models…”  ￼)
+
+Card 3: MyBrand Invoicing
+	•	Bullet points:
+	•	No-code invoice pages you can send as a link.
+	•	Automatic emailed receipts and payment confirmations.
+	•	Export-friendly records for accounting and tax.
+(Maps to “Low code / no code integration… hosted invoice pages… automated receipts… managed invoice email service.”  ￼)
+
+Design details for each card:
+	•	Each card is a frosted panel on dark background.
+	•	Title row: small icon badge (for example: globe icon for Online, repeat arrow for Subscriptions, receipt icon for Invoicing).
+	•	Hover: lift + glow border.
+	•	Mobile: stack vertically with generous spacing.
+
+Below the grid: Add a slim trust bar / tagline like
+Built for merchants. Online or offline, we've got you covered.
+(This echoes the “Online or offline, we’ve got you covered.” line.  ￼)
+
+6. BIG CTA / WAITLIST SECTION
+
+Nexaris ends with a bold “Join the waitlist to unlock next-gen payments…” plus an email capture.  ￼
+
+Recreate that pattern:
+
+Full-width callout block with a subtle gradient glow background and rounded container:
+	•	Headline:
+Unlock the Future of Payments
+	•	Supporting text, 1 sentence:
+Be first to access instant crypto payments, automated invoicing, and subscription billing with zero banking friction.
+	•	Email capture form:
+	•	Input field for email (rounded, light-on-dark).
+	•	Button: Join Waitlist
+	•	Inline success message state:
+You're in. We'll reach out soon.
+	•	Inline error state:
+Something went wrong — please try again.
+(This matches the Nexaris pattern where the form shows “Thank you… Someone will get in touch…” and the error “Oops! Something went wrong…”  ￼)
+
+Make sure this block feels high contrast so it visually “pops” before footer.
+
+7. FOOTER
+
+Footer should mirror a modern crypto infra startup footer:
+	•	Left:
+	•	© 2025 MyBrand. All rights reserved.
+(Nexaris footer shows “© 2025 Nexaris™. All rights reserved.”  ￼)
+	•	Center/right:
+	•	Social icons row: X (Twitter), Instagram, LinkedIn.
+	•	Each icon is minimal line icon style, white on dark.
+	•	Optional columns:
+	•	Company → About / Careers / Press
+	•	Product → API / Docs / Pricing
+	•	Legal → Terms / Privacy
+
+Background: darker than page background, with a thin border-top and very subtle gradient glow behind social icons.
+
+8. RESPONSIVE BEHAVIOR
+	•	Mobile:
+	•	Collapse navbar into burger menu.
+	•	Hero stacks: headline first then CTAs then the dashboard mock underneath.
+	•	Product cards become a vertical stack with full-width cards.
+	•	Footer becomes single-column.
+	•	Tablet:
+	•	2-column hero (text and dashboard mock side by side).
+	•	Product grid becomes 2 columns + 1 full-width row.
+	•	Desktop:
+	•	Everything uses max-width container and generous whitespace.
+
+9. INTERACTIONS & POLISH
+	•	Smooth scroll for in-page nav links.
+	•	Subtle parallax/float on background gradient blobs in hero.
+	•	CTA buttons should have glow rings / animated border gradient on hover.
+	•	Inputs (like email field) should have a soft inner glow focus state to feel “sci-fi finance.”
+
+10. COPY GUIDELINES
+
+Important: Do not reuse the Nexaris brand name, their trademark, or their literal marketing sentences. Rewrite in our own voice so it’s legally clean. Use the same positioning: “we are building decentralized payment rails for merchants, faster settlement, lower fees, more control,” but express it in fresh wording. The structure and benefits should stay the same.
+
+11. DELIVERABLE
+
+Generate production-ready HTML/CSS/JS (or React if supported) for a single-page marketing site with:
+	•	Sticky nav
+	•	Hero
+	•	Mission / Why Us
+	•	Product / Solution grid (3 cards)
+	•	Waitlist CTA with working email form markup (no backend required yet)
+	•	Footer
+
+Code must be clean and semantic:
+	•	Use modern flexbox / grid.
+	•	Use utility-style classes or well-structured component classes.
+	•	Keep all colors, gradients, shadows, and radii consistent across cards and CTAs.
+
+⸻
+
+That’s it. Paste that into EmergentHQ (swap MyBrand for your brand), and you’ll get something extremely close in layout/flow/feel to nexaris.com, but clean for you to ship and safe for you to own.
