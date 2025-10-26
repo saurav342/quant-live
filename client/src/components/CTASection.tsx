@@ -19,7 +19,7 @@ export function CTASection() {
               className="text-xs sm:text-sm font-medium tracking-widest text-primary mb-4"
               data-testid="text-cta-welcome"
             >
-              Welcome to Nexaris
+              Welcome to QuantVault
             </p>
             <h2
               className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-6"

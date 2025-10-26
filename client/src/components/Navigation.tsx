@@ -65,7 +65,7 @@ export function Navigation() {
               />
             </svg>
             <span className="text-xl sm:text-2xl font-bold text-foreground">
-              nexaris
+              quantvault
             </span>
           </div>
 

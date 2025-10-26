@@ -6,7 +6,7 @@ export function ProductGrid() {
   const products = [
     {
       icon: Globe,
-      title: "Nexaris Online",
+      title: "QuantVault Online",
       features: [
         "No KYC payments: enjoy seamless transactions without the friction of Know Your Customer requirements.",
         "Quick setup: get started in under 10 minutes with our non-gated platform.",
@@ -15,7 +15,7 @@ export function ProductGrid() {
     },
     {
       icon: RefreshCw,
-      title: "Nexaris Subscriptions",
+      title: "QuantVault Subscriptions",
       features: [
         "Custom subscription plans: flexible pricing models to cater to all subscription needs, allowing you to adapt to your business requirements effortlessly.",
         "Flexible billing intervals: choose from weekly, monthly, quarterly, or annual billing cycles with easy customization.",
@@ -24,7 +24,7 @@ export function ProductGrid() {
     },
     {
       icon: FileText,
-      title: "Nexaris Invoicing",
+      title: "QuantVault Invoicing",
       features: [
         "Low code / no code integration: easily create hosted invoice pages with minimal technical knowledge.",
         "Automated receipts: our managed invoice email service ensures your customers receive their receipts promptly, enhancing their experience.",
@@ -54,7 +54,7 @@ export function ProductGrid() {
             Adoption for All Merchants.
           </p>
           <p className="text-base sm:text-lg text-muted-foreground max-w-3xl mx-auto">
-            Nexaris provides no-code solutions for payments, boosting profits and
+            QuantVault provides no-code solutions for payments, boosting profits and
             removing banking hurdles. Online or offline, we've got you covered.
           </p>
         </motion.div>
